@@ -1,12 +1,19 @@
-# Run timidity
+# vkeys
+
+Play music on keyboard
+
+## Run timidity
 
 ```
 timidity -iA 0 -B2,7
 ```
 
-# Run vkeybd example
+## Run vkeybd
 
 ```
 vkeybd --addr 128:0 --config FILENAME
 ```
-# vkeys
+
+## Layouts
+
+* `chromka` - Russian harmonica "Chromka"
