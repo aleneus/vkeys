@@ -5,7 +5,7 @@ Play music on keyboard
 ## Run timidity
 
 ```
-timidity -iA 0 -B2,7
+timidity -iA 0 -B2,8
 ```
 
 ## Run vkeybd
