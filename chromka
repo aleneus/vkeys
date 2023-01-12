@@ -2,25 +2,19 @@ global keymap
 set keymap {
   {1 6}
   {2 2}
-
   {3 11}
   {4 7}
-
   {5 4}
   {6 0}
-
   {7 9}
   {8 5}
 
   {q 15}
   {w 11}
-
   {e 8}
   {r 4}
-
   {t 12}
   {y 9}
-
   {u 5}
   {i 2}
 
@@ -35,6 +29,7 @@ set keymap {
   {b 31}
   {g 33}
   {n 35}
+
   {h 36}
   {m 38}
   {j 40}
@@ -42,6 +37,9 @@ set keymap {
   {k 43}
   {period 45}
   {l 47}
+
   {slash 48}
-  {grave 50}
+  {semicolon 50}
+  {Shift_R 52}
+  {apostrophe 53}
 }
